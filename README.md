@@ -1,37 +1,18 @@
-<h1 align="center">
-  <br>
-  <a href="https://ryujinx.org/"><img src="https://raw.githubusercontent.com/Ryujinx/Ryujinx/master/distribution/misc/Logo.svg" alt="Ryujinx" width="150"></a>
-  <br>
-  <b>Ryujinx</b>
-  <br>
-  <sub><sup><b>(REE-YOU-JINX)</b></sup></sub>
-  <br>
-</h1>
+# 🪦 Ryujinx 🪦
+
+*Apparently Ryujinx is now dead (as far as the creator is concerned). Fortunately, open source is a gift in this type of scenario. Unfortunately, I'm not very familiar with C#. Also unfortunately, none of the original wiki and supplemental documentation was in the main repo.*
+
+*Depending on my time and motivation, I may dip my toes in and start playing with the codebase. I may scrape the Wayback Machine and mirror the documentation and website. It's possible, should I find myself enjoying the code, I might try to port the project into a language I'm more familiar with and prefer (Rust, perhaps). Either way, the code will be here if you need it.*
+
+> Ryujinx is an open-source Nintendo Switch emulator, created by gdkchan, written in C#. This emulator aims at providing excellent accuracy and performance, a user-friendly interface and consistent builds. It was written from scratch and development on the project began in September 2017. Ryujinx is available on Github under the <a href="https://github.com/Ryujinx/Ryujinx/blob/master/LICENSE.txt" target="_blank">MIT license</a>.
 
 <p align="center">
-  Ryujinx is an open-source Nintendo Switch emulator, created by gdkchan, written in C#.
-  This emulator aims at providing excellent accuracy and performance, a user-friendly interface and consistent builds.
-  It was written from scratch and development on the project began in September 2017.
-  Ryujinx is available on Github under the <a href="https://github.com/Ryujinx/Ryujinx/blob/master/LICENSE.txt" target="_blank">MIT license</a>.
-  <br />
-</p>
-
-<p align="center">
-    <a href="https://github.com/Ryujinx/Ryujinx/actions/workflows/release.yml">
-        <img src="https://github.com/Ryujinx/Ryujinx/actions/workflows/release.yml/badge.svg"
-            alt="">
-    </a>
     <a href="https://crwd.in/ryujinx">
-        <img src="https://badges.crowdin.net/ryujinx/localized.svg"
-            alt="">
+        <img src="https://badges.crowdin.net/ryujinx/localized.svg" alt="Localized Badge (Dead)" />
     </a>
     <a href="https://discord.com/invite/VkQYXAZ">
-        <img src="https://img.shields.io/discord/410208534861447168?color=5865F2&label=Ryujinx&logo=discord&logoColor=white"
-            alt="Discord">
+        <img src="https://img.shields.io/discord/410208534861447168?color=5865F2&label=Ryujinx&logo=discord&logoColor=white" alt="Discord (Still active, apparently)" />
     </a>
-    <br>
-    <br>
-    <img src="https://raw.githubusercontent.com/Ryujinx/Ryujinx-Website/master/public/assets/images/shell.png">
 </p>
 
 ## Compatibility
